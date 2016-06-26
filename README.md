@@ -1,4 +1,4 @@
 # my-first-blog
 
 Blogging app using Django created during the Django girls workshop.
-You can find the tutorial [here] (http://tutorial.djangogirls.org/en/)
+You can see the website [here] (http://fsjoyti.pythonanywhere.com/)
